@@ -1,0 +1,2 @@
+node_modules/\n.next/\n.env\n.DS_Store\n*.log\n*.sqlite\n.vscode/\n.idea/\noutput/\ncoverage/\n*.local\nnpm-debug.log*
+
